@@ -66,8 +66,8 @@ npm run dev
 ### 4. View it locally:
 Open http://localhost:5173 in your browser.
 
-## 📝 Author
+## ✏️ Author
 Created by **Khanh Nguyen** as part of CodePath's WEB102 curriculum.
 
-## 📘 License
+## 📄 License
 This project is for educational purposes under CodePath's Web Development 102 curriculum. Open for personal and learning use.
