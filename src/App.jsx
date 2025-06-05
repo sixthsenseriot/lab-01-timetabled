@@ -4,7 +4,7 @@ import Calendar from "./components/Calendar";
 const App = () => {
     return (
         <div className="App">
-            <h1>Iternary for 7 Days in Houston 🤠</h1>
+            <h1>Itinerary for 7 Days in Houston 🤠</h1>
             <h4>
                 Welcome to Houston, Texas!
                 <br />
