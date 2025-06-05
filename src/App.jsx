@@ -5,12 +5,11 @@ const App = () => {
     return (
         <div className="App">
             <h1>Iternary for 7 Days in Houston 🤠</h1>
-            <h3>
+            <h4>
                 Welcome to Houston, Texas!
                 <br />
-                Check out this calendar to get to know the city an see all the
-                sights during your stay!
-            </h3>
+                Check out this calendar to get to know the city!
+            </h4>
             <Calendar />
         </div>
     );
