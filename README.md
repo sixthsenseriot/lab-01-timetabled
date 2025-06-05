@@ -49,8 +49,8 @@ index.html
 ## 🚀 Getting Started
 ### 1. Clone the repo:
 ```
-git clone https://github.com/your-username/houston-itinerary-lab.git
-cd houston-itinerary-lab
+git clone https://github.com/sixthsenseriot/lab-01-timetabled.git
+cd lab-01-timetabled
 ```
 
 ### 2. Install dependencies:
