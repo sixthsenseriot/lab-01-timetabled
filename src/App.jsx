@@ -10,6 +10,7 @@ const App = () => {
                 <br />
                 Check out this calendar to get to know the city!
             </h4>
+            <hr />
             <Calendar />
         </div>
     );
