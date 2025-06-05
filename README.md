@@ -33,6 +33,8 @@ The application renders a **7-day weekly calendar** (Sunday–Saturday), where e
 - Reusable `Event` and `Calendar` components
 - Clean, grid-style layout
 
+![Screenshot of the Houston Itinerary Web App](./src/assets/screenshot.png)
+
 ## 📂 Project Structure
 ```
 src/
