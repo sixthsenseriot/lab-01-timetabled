@@ -6,9 +6,9 @@ const App = () => {
         <div className="App">
             <h1>Itinerary for 7 Days in Houston 🤠</h1>
             <h4>
-                Welcome to Houston, Texas!
+                Howdy and welcome to Houston, Texas!
                 <br />
-                Check out this calendar to get to know the city!
+                Check out this calendar to get to know the city.
             </h4>
             <hr />
             <Calendar />
