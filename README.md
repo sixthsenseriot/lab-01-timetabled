@@ -1,24 +1,21 @@
 # 🌆 Houston Week Itinerary (Timetabled) – CodePath WEB102 Lab 1
 
-This project is a grid-style weekly calendar web app built as part of **CodePath's WEB102 Lab 1**. It showcases a single week's itinerary of one-hour events, featuring attractions and activities based in **Houston, Texas**.
+**Houston Week Itinerary** is a grid-style weekly calendar web app built as part of **CodePath's WEB102 Lab 1**. It showcases a single week's itinerary of one-hour events, featuring attractions and activities based in Houston, Texas.
 
-## 🧪 Lab Objective
-
-The primary focus of this lab was to:
+## 🎯 Lab Objective
+This lab focuses on:
 - Build UI using **React components**
 - Pass and use **props** to render dynamic data
 - Practice using **JavaScript ES6** features within a React-based project
 - Organize a user-friendly layout using **component-driven design**
 
 ## 🛠️ Tech Stack
-
 - ⚛️ **React** – Component-based UI development
 - ⚡ **Vite** – Fast development and build tool
 - 🟨 **JavaScript (ES6)** – Modern syntax and structure
 - 💅 **CSS Modules**
 
 ## 📅 App Overview
-
 The application renders a **7-day weekly calendar** (Sunday–Saturday), where each day features a full itinerary from 8:00 AM to 5:00 PM. Each hourly block includes:
 - Event name
 - Location (Houston-based attractions)
@@ -41,7 +38,9 @@ src/
 ├── components/
 │   ├── Calendar.jsx
 │   └── Event.jsx
+├── App.css
 ├── App.jsx
+├── index.css
 └── main.jsx
 index.html
 ```
